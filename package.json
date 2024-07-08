@@ -15,7 +15,7 @@
         "javascript",
         "backend"
     ],
-    "author": "Hruthik",
+    "author": "Kalyani",
     "license": "ISC",
     "devDependencies": {
         "nodemon": "^3.0.1",
